@@ -1,0 +1,6 @@
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\bin\Debug\LINE.Dynamo.ZeroTouchDS.dll
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\obj\Debug\ZeroTouch.csprojResolveAssemblyReference.cache
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\bin\Debug\LINE.Dynamo.ZeroTouch.dll
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\bin\Debug\LINE.Dynamo.ZeroTouch.pdb
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\obj\Debug\LINE.Dynamo.ZeroTouch.dll
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\obj\Debug\LINE.Dynamo.ZeroTouch.pdb
