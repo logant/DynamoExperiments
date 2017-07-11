@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LINE.Dynamo.ZeroTouchDS</name>
+    </assembly>
+    <namespaces>
+        <namespace name="LINE.Dynamo.ZeroTouchDS">
+            <category>LINE.Examples - ZeroTouchDS</category>
+        </namespace>
+    </namespaces>
+</doc>

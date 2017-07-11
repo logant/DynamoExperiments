@@ -7,8 +7,8 @@
     <ProjectGuid>{901CB2C9-1731-43B3-9B0E-F174D52E4675}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LINE.Dynamo.ZeroTouch</RootNamespace>
-    <AssemblyName>LINE.Dynamo.ZeroTouch</AssemblyName>
+    <RootNamespace>LINE.Dynamo.ZeroTouchDS</RootNamespace>
+    <AssemblyName>LINE.Dynamo.ZeroTouchDS</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -64,13 +64,18 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="LINEDynamoZeroTouchImages.resx" />
+    <None Include="LINEDynamoZeroTouchDSImages.resx" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\LINE.Dynamo.ZeroTouch.Meshes.MeshJoin.Large.png" />
+    <None Include="Resources\LINE.Dynamo.ZeroTouchDS.Meshes.MeshJoin.Large.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\LINE.Dynamo.ZeroTouch.Meshes.MeshJoin.Small.png" />
+    <None Include="Resources\LINE.Dynamo.ZeroTouchDS.Meshes.MeshJoin.Small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LINE.Dynamo.ZeroTouchDS_DynamoCustomization.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
@@ -88,7 +93,7 @@
       <Output TaskParameter="Assemblies" ItemName="AssemblyInfo" />
     </GetAssemblyIdentity>
     <!-- Generate customization dll -->
-    <GenerateResource UseSourcePath="true" Sources="$(ProjectDir)LINEDynamoZeroTouchImages.resx" OutputResources="$(ProjectDir)LINEDynamoZeroTouchImages.resources" References="$(FrameworkAssembliesPath)System.Drawing.dll" />
-    <AL TargetType="library" EmbedResources="$(ProjectDir)LINEDynamoZeroTouchImages.resources" OutputAssembly="$(OutDir)LINE.Dynamo.ZeroTouch.customization.dll" Version="%(AssemblyInfo.Version)" />
+    <GenerateResource UseSourcePath="true" Sources="$(ProjectDir)LINEDynamoZeroTouchDSImages.resx" OutputResources="$(ProjectDir)LINEDynamoZeroTouchDSImages.resources" References="$(FrameworkAssembliesPath)System.Drawing.dll" />
+    <AL TargetType="library" EmbedResources="$(ProjectDir)LINEDynamoZeroTouchDSImages.resources" OutputAssembly="$(OutDir)LINE.Dynamo.ZeroTouchDS.customization.dll" Version="%(AssemblyInfo.Version)" />
   </Target>
 </Project>

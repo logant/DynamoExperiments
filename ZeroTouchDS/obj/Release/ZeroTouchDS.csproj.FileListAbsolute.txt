@@ -1,4 +1,5 @@
-D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\bin\Release\LINE.Dynamo.ZeroTouch.dll
-D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\bin\Release\LINE.Dynamo.ZeroTouch.pdb
-D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\obj\Release\LINE.Dynamo.ZeroTouch.dll
-D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\obj\Release\LINE.Dynamo.ZeroTouch.pdb
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\bin\Release\LINE.Dynamo.ZeroTouchDS.dll
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\bin\Release\LINE.Dynamo.ZeroTouchDS.pdb
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\obj\Release\LINE.Dynamo.ZeroTouchDS.dll
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\obj\Release\LINE.Dynamo.ZeroTouchDS.pdb
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchDS\bin\Release\LINE.Dynamo.ZeroTouchDS_DynamoCustomization.xml

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Autodesk.DesignScript.Geometry;
 
-namespace LINE.Dynamo.ZeroTouch
+namespace LINE.Dynamo.ZeroTouchDS
 {
     public static class Meshes
     {
