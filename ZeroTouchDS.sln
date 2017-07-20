@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroTouchDS", "ZeroTouchDS.csproj", "{901CB2C9-1731-43B3-9B0E-F174D52E4675}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroTouchDS", "ZeroTouchDS\ZeroTouchDS.csproj", "{901CB2C9-1731-43B3-9B0E-F174D52E4675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroTouchRVT", "ZeroTouchRVT\ZeroTouchRVT.csproj", "{B4C3095C-34E3-43E3-A316-63DCF9CA4A81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{901CB2C9-1731-43B3-9B0E-F174D52E4675}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{901CB2C9-1731-43B3-9B0E-F174D52E4675}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{901CB2C9-1731-43B3-9B0E-F174D52E4675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C3095C-34E3-43E3-A316-63DCF9CA4A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C3095C-34E3-43E3-A316-63DCF9CA4A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C3095C-34E3-43E3-A316-63DCF9CA4A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C3095C-34E3-43E3-A316-63DCF9CA4A81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LINE.Dynamo.ZeroTouchRVT</name>
+    </assembly>
+    <namespaces>
+        <namespace name="LINE.Dynamo.ZeroTouchRVT">
+            <category>LINE.Examples - ZeroTouchRVT</category>
+        </namespace>
+    </namespaces>
+</doc>

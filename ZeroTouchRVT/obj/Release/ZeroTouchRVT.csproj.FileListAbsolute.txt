@@ -1,0 +1,6 @@
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchRVT\bin\Release\LINE.Dynamo.ZeroTouchRVT_DynamoCustomization.xml
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchRVT\bin\Release\LINE.Dynamo.ZeroTouchRVT.dll
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchRVT\bin\Release\LINE.Dynamo.ZeroTouchRVT.pdb
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchRVT\obj\Release\ZeroTouchRVT.csprojResolveAssemblyReference.cache
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchRVT\obj\Release\LINE.Dynamo.ZeroTouchRVT.dll
+D:\Development\GitHub\Repos\DynamoExperiments\ZeroTouchRVT\obj\Release\LINE.Dynamo.ZeroTouchRVT.pdb
